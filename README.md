@@ -1,0 +1,1 @@
+from: https://github.com/patchkit-net/html2canvas
